@@ -6,6 +6,12 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>请进QQ群获取更多玩法</string>
+			<key>url</key>
+			<string>mqqapi://card/show_pslcard?src_type=internal&amp;version=1&amp;uin=782838906&amp;key=44a6e01f2dab126f87ecd2ec7b7e66ae259b30535fd0c2c25776271e8c0ac08f&amp;card_type=group&amp;source=external</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>海外电视台</string>
 			<key>url</key>
 			<string>https://www.icloud.com/shortcuts/d2ba2fa187974a24a7e0e9b9e9338a77</string>
